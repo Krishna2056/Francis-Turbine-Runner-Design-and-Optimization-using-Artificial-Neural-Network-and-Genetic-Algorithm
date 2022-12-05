@@ -1,0 +1,2 @@
+"C:\Program Files\ANSYS Inc\v211\aisol\BladeModeler\BladeGen\BladeBatch.exe" "D:\Kalpana101\BATCHINPUT.bgi" -TG "D:\Kalpana101\curves"
+"C:\Program Files\ANSYS Inc\v211\TurboGrid\bin\cfxtg.exe" -batch "D:\Kalpana101\batchturbo.tse"
